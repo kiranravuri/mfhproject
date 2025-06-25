@@ -26,7 +26,7 @@
         
         /* Header Styles */
         header {
-            background: linear-gradient(135deg, #000, #3498db);
+            background: linear-gradient(135deg, #FFF, #3498db);
             color: white;
             padding: 1rem 0;
             position: sticky;
@@ -68,7 +68,7 @@
         
         nav ul li a {
             color: white;
-            font-weight: 500;
+            font-weight: 600;
             transition: color 0.3s;
         }
         

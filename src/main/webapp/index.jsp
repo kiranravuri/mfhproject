@@ -26,7 +26,7 @@
         
         /* Header Styles */
         header {
-            background: linear-gradient(135deg, #2c3e50, #3498db);
+            background: linear-gradient(135deg, #000, #3498db);
             color: white;
             padding: 1rem 0;
             position: sticky;

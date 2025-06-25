@@ -14,8 +14,8 @@
         }
         
         body {
-            line-height: 1.6;
-            color: #333;
+            line-height: 1.9;
+            color: #000;
             background-color: #f9f9f9;
         }
         
